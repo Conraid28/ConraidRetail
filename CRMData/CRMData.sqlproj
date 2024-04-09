@@ -71,6 +71,6 @@
     <RefactorLog Include="CRMData.refactorlog" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="CRMData.publish.xml" />
+    <None Include="PublishLocations\CRMData.publish.xml" />
   </ItemGroup>
 </Project>
